@@ -100,8 +100,8 @@ echo "navigator.hm" >> dominios
 
 ## 🛡️ Mapeo con MITRE ATT&CK
 * **Táctica:** Reconnaissance ([TA0043](https://mitre.org))
-* **Técnica:** Gather Victim Network Information - DNS internal record enumeration ([T1590.002](https://mitre.org)).
-* **Técnica:** Gather Victim Identity Information - Email address harvesting via web comments and endpoint files ([T1589.002](https://mitre.org)).
+* **Técnica:** Gather Victim Network Information - Extracción de nombres de dominio y esquemas de direccionamiento interno ([T1590.002](https://mitre.org)).
+* **Técnica:** Gather Victim Identity Information - Descubrimiento de cuentas de correo electrónico corporativas mediante la inspección de activos expuestos ([T1589.002](https://mitre.org)).
 
 ---
 
